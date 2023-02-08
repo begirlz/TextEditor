@@ -72,28 +72,28 @@ npm i
 
 Clone the repo, navigate to the root folder, run the following commands from the CLI:
 
-Start Server;     
-`npm start`    
+```    
+npm start
+```
 
 ## Documentation
 Deployed application can be found [here](https://powerful-hollows-53265.herokuapp.com/).
-The following picture is the screenshot of the application: 
 
+The following image is the screenshot of the application: 
 ![screenshot](./assets/demo.png) 
+
+
+The following image shows the application's IndexedDB storage:
+![screenshot](./assets/indexedDB.png) 
+
+
+The following image shows the application's `manifest.json` file:
+![screenshot](./assets/menifest.png) 
+
+
+The following image shows the application's registered service worker:
+![screenshot](./assets/serviceWorkers.png) 
+
 
 ## Questions
 If you have any questions about this projects, please contact me at test@test.com or more projects on [Github](https://github.com/begirlz)
-
-The following image shows the application's `manifest.json` file:
-
-![Demonstration of the finished Module 19 Challenge with a manifest file in the browser.](./Assets/01-manifest.png)
-
-The following image shows the application's registered service worker:
-
-![Demonstration of the finished Module 19 Challenge with a registered service worker in the browser.](./Assets/02-service-worker.png)
-
-The following image shows the application's IndexedDB storage:
-
-![Demonstration of the finished Module 19 Challenge with a IndexedDB storage named 'jate' in the browser.](./Assets/03-idb-storage.png)
-
-
