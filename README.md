@@ -77,7 +77,7 @@ npm start
 ```
 
 ## Documentation
-Deployed application can be found [here](https://powerful-hollows-53265.herokuapp.com/).
+Deployed application can be found [here](https://calm-meadow-22560.herokuapp.com/).
 
 The following image is the screenshot of the application: 
 ![screenshot](./assets/demo.png) 
@@ -88,7 +88,7 @@ The following image shows the application's IndexedDB storage:
 
 
 The following image shows the application's `manifest.json` file:
-![screenshot](./assets/menifest.png) 
+![screenshot](./assets/menifest-1.png) 
 
 
 The following image shows the application's registered service worker:
